@@ -1,0 +1,38 @@
+{
+  "name": "reactstaticwebsite",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "express-generator": "^4.15.5",
+    "mongodb": "^3.0.1",
+    "mongoose": "^4.7.6",
+    "react": "^15.6.1",
+    "react-bootstrap": "^0.31.5",
+    "react-bootstrap-carousel": "^2.2.0",
+    "react-collapsible": "^2.0.3",
+    "react-dom": "^15.6.1",
+    "react-fontawesome": "^1.6.1",
+    "react-icons": "^2.2.7",
+    "react-redux": "^5.0.6",
+    "react-responsive-carousel": "^3.1.30",
+    "react-responsive-modal": "^2.0.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "0.9.x",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "react-icons-kit": "^1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

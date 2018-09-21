@@ -1,0 +1,112 @@
+
+  @media only screen  and (min-width : 1224px) {
+      .programApp{
+         /* background-color: #fff; */
+    padding :40px 0px;
+
+      }
+    .reskillcontent{
+        
+         background: #fff;
+         /* border-radius: 10px; */
+         box-shadow: rgba(0,0,0,.3) 0 1px 4px;
+         position: relative;
+         /* margin-top: 60px; */
+       }
+       .reskillmargin{
+        margin-top:50px;
+      }
+      
+      .modal-row{
+        padding: 150px 0px;
+        background-image: url('/images/programbanner.jpg');
+        /* margin-top: 10px; */
+        background-position-x: center;
+        background-position-y: center;
+        background-size: cover;
+        background-attachment: initial;
+        background-origin: initial;
+        background-clip: initial;
+        background-color: initial;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        height: 100%
+      }
+      .skilstyle{
+        font-family: cursive;
+        
+      }
+      .applybtn{
+        padding: 7px 53px;
+        
+        text-align: center;
+      }
+      .skilcontent{
+          margin-top: 15px;
+      }
+      .programdata{
+          margin-top: -30px;
+          margin-bottom: -42px;
+      }
+      .programdataone{
+          margin-top: -30px;
+          margin-bottom: -42px;
+      }
+    }
+    @media only screen  and (min-width : 1824px) {
+      .programApp{
+         /* background-color: #fff; */
+    padding :40px 0px;
+
+      }
+       .reskillcontent{
+        
+         background: #fff;
+         /* border-radius: 10px; */
+         box-shadow: rgba(0,0,0,.3) 0 1px 4px;
+         position: relative;
+         /* margin-top: 60px; */
+       }
+       .reskillmargin{
+        margin-top:50px;
+      }
+      
+      .modal-row{
+        padding: 250px 0px;
+        background-image: url('/images/programbanner.jpg');
+        /* margin-top: 10px; */
+        background-position-x: center;
+        background-position-y: center;
+        background-size: cover;
+        background-attachment: initial;
+        background-origin: initial;
+        background-clip: initial;
+        background-color: initial;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        height: 100%
+      }
+      .skilstyle{
+        font-family: cursive;
+        
+      }
+      .applybtn{
+        padding: 7px 53px;
+        
+        text-align: center;
+      }
+      .skilcontent{
+          margin-top: 15px;
+      }
+      .programdata{
+          margin-top: -30px;
+          margin-bottom: -42px;
+      }
+      .programdataone{
+          margin-top: -30px;
+          margin-bottom: -42px;
+      }
+/* Styles */
+}

@@ -1,0 +1,192 @@
+.faqmargin{
+    margin-top: 60px;
+}
+.faqpic{
+    
+       padding: 186px 0px;
+        background-image: url('/images/FAQs.jpg');
+        /* margin-top: 10px; */
+background-repeat: no-repeat;
+        
+        height: 100%
+
+}
+.Collapsible {
+        background-color: base;
+      }
+      
+      
+    
+      .Collapsible__contentInner {
+        padding: 10px;
+        border: 1px solid lightGrey;
+        border-top: 0;
+      }
+        p {
+          margin-bottom: 10px;
+          font-size: 14px;
+          line-height: 20px;
+      
+          /* &:last-child {
+            margin-bottom: 0;
+          } */
+        }
+      
+      
+    
+      .Collapsible__trigger {
+        display: block;
+        font-weight: 400;
+        text-decoration: none;
+        color: grey;
+        position: relative;
+        border: 1px solid white;
+        padding: 10px;
+        background: rgb(18, 150, 150);
+        color: white;
+      
+      }
+        .after {
+          font-family: 'FontAwesome';
+          content: '\f107';
+          position: absolute;
+          right: 10px;
+          top: 10px;
+          display: block;
+          transition: transform 300ms;
+        }
+      
+        /* .is-open {
+          :after {
+            transform: rotateZ(180deg);
+          } */
+      
+        .is-disabled {
+          opacity: 0.5;
+          background-color: grey;
+        }
+      
+      
+      .CustomTriggerCSS {
+        background-color: lightcoral;
+        transition: background-color 200ms ease;
+        
+        
+      }
+      
+      .CustomTriggerCSS--open {
+        background-color: darkslateblue;
+      }
+      
+      .Collapsible__custom-sibling {
+        padding: 5px;
+        font-size: 12px;
+        background-color: #CBB700;
+        color: black;
+      }
+  .faqApp{
+      /* background-image: url('/images/imgeback.jpg');
+          background-position-x: center;
+    background-position-y: center;
+    background-size: cover;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+
+    height: 100%; */
+    background-color: #fff;
+    padding :40px 0px;
+
+} 
+      @media only screen  and (min-width : 1224px) {
+        .faqmargin{
+                margin-top: 60px;
+            }
+            .faqpic{
+                
+                   padding: 174px 0px;
+                    background-image: url('/images/FAQs.jpg');
+                    /* margin-top: 10px; */
+            background-repeat: no-repeat;
+                    
+                    height: 100%
+            
+            }
+            .Collapsible {
+                    background-color: base;
+                  }
+                  
+                  
+                
+                  .Collapsible__contentInner {
+                    padding: 10px;
+                    border: 1px solid lightGrey;
+                    border-top: 0;
+                  }
+                    p {
+                      margin-bottom: 10px;
+                      font-size: 14px;
+                      line-height: 20px;
+                  
+                      /* &:last-child {
+                        margin-bottom: 0;
+                      } */
+                    }
+                  
+                  
+                
+                  .Collapsible__trigger {
+                    display: block;
+                    font-weight: 400;
+                    text-decoration: none;
+                    color: grey;
+                    position: relative;
+                    border: 1px solid white;
+                    padding: 10px;
+                    background: rgb(18, 150, 150);
+                    color: white;
+                  
+                  }
+                    .after {
+                      font-family: 'FontAwesome';
+                      content: '\f107';
+                      position: absolute;
+                      right: 10px;
+                      top: 10px;
+                      display: block;
+                      transition: transform 300ms;
+                    }
+                  
+                    /* .is-open {
+                      :after {
+                        transform: rotateZ(180deg);
+                      } */
+                  
+                    .is-disabled {
+                      opacity: 0.5;
+                      background-color: grey;
+                    }
+                  
+                  
+                  .CustomTriggerCSS {
+                    background-color: lightcoral;
+                    transition: background-color 200ms ease;
+                    
+                    
+                  }
+                  
+                  .CustomTriggerCSS--open {
+                    background-color: darkslateblue;
+                  }
+                  
+                  .Collapsible__custom-sibling {
+                    padding: 5px;
+                    font-size: 12px;
+                    background-color: #CBB700;
+                    color: black;
+                  }
+            
+        }

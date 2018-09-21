@@ -1,0 +1,179 @@
+     .reskillApp{
+         /* background-color: #fff; */
+    padding :40px 0px;
+
+      }
+
+
+.modal-reskill{
+        padding: 150px 0px;
+        background-image: url('/images/reskill.jpg');
+        /* margin-top: 10px; */
+        background-position-x: center;
+        background-position-y: center;
+        background-size: cover;
+        background-attachment: initial;
+        background-origin: initial;
+        background-clip: initial;
+        background-color: initial;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        height: 100%
+      }
+      .modal-reskilltwo{
+        padding: 150px 0px;
+        background-image: url('/images/reskillfive.jpg');
+        /* margin-top: 10px; */
+        background-position-x: center;
+        background-position-y: center;
+        background-size: cover;
+        background-attachment: initial;
+        background-origin: initial;
+        background-clip: initial;
+        background-color: initial;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        height: 100%
+      }
+      .reskillready{
+        margin-left: 200px;
+        
+      }
+      .skillstyletop{
+        margin-top: 15px;
+      }
+      .reskilstyle{
+        font-size: 18px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      }
+     .reskilldata {
+        /* font-style: oblique; */
+        font-family: inherit;
+        font-size: 17px;
+    }
+    .skilstyletwo{
+      margin-top: 15px;
+      font-size: 17px;
+    }
+    @media only screen  and (min-width : 1224px) {
+         .reskillApp{
+         /* background-color: #fff; */
+    padding :40px 0px;
+
+      }
+      /* Styles */
+      .modal-reskill{
+        padding: 150px 0px;
+        background-image: url('/images/reskill.jpg');
+        /* margin-top: 10px; */
+        background-position-x: center;
+        background-position-y: center;
+        background-size: cover;
+        background-attachment: initial;
+        background-origin: initial;
+        background-clip: initial;
+        background-color: initial;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        height: 100%
+      }
+      .modal-reskilltwo{
+        padding: 150px 0px;
+        background-image: url('/images/reskillfive.jpg');
+        /* margin-top: 10px; */
+        background-position-x: center;
+        background-position-y: center;
+        background-size: cover;
+        background-attachment: initial;
+        background-origin: initial;
+        background-clip: initial;
+        background-color: initial;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        height: 100%
+      }
+      .reskillready{
+        margin-left: 200px;
+        
+      }
+      .skillstyletop{
+        margin-top: 15px;
+      }
+      .reskilstyle{
+        font-size: 18px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      }
+     .reskilldata {
+        /* font-style: oblique; */
+        font-family: inherit;
+        font-size: 17px;
+    }
+    .skilstyletwo{
+      margin-top: 15px;
+      font-size: 17px;
+    }
+      }
+  @media only screen  and (min-width : 1824px) {
+       .reskillApp{
+         /* background-color: #fff; */
+    padding :40px 0px;
+
+      }
+/* Styles */
+.modal-reskill{
+        padding: 195px 0px;
+        background-image: url('/images/reskill.jpg');
+        /* margin-top: 10px; */
+        background-position-x: center;
+        background-position-y: center;
+        background-size: cover;
+        background-attachment: initial;
+        background-origin: initial;
+        background-clip: initial;
+        background-color: initial;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        height: 100%
+      }
+      .modal-reskilltwo{
+        padding: 150px 0px;
+        background-image: url('/images/reskillfive.jpg');
+        /* margin-top: 10px; */
+        background-position-x: center;
+        background-position-y: center;
+        background-size: cover;
+        background-attachment: initial;
+        background-origin: initial;
+        background-clip: initial;
+        background-color: initial;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        height: 100%
+      }
+      .reskillready{
+        margin-left: 298px;
+        
+      }
+      .skillstyletop{
+        margin-top: 15px;
+      }
+      .reskilstyle{
+        font-size: 18px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      }
+     .reskilldata {
+        /* font-style: oblique; */
+        font-family: inherit;
+        font-size: 17px;
+    }
+    .skilstyletwo{
+      margin-top: 15px;
+      font-size: 17px;
+    }
+}

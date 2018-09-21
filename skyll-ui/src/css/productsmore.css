@@ -1,0 +1,145 @@
+.header-resume{
+    background-color: #35629d;
+    color:white;
+    height:50px
+}
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 3px solid #eee;
+}
+.resume-section-carreer{
+    
+        border-bottom: 2px solid #e2ebf5;
+}
+.resume_details-title {
+    color: #a9a9a9;
+    font-weight: 700;
+    padding-bottom: 15px;
+    text-transform: uppercase;
+}
+.resume_details-item_inner {
+    padding: 30px 100px 20px;
+}
+.resume_details-col {
+    border-left: 2px solid #e2ebf5;
+}
+.resume_details-list_item {
+    color: #004869;
+    font-size: 15px;
+    list-style: none;
+    margin: 0 0 7px;
+}
+.resume_details-list {
+    padding-left: 0;
+}
+.resume-section-academic{
+    
+        border-left: 2px solid #e2ebf5;
+}
+/* .image-styles{
+    width:158px;
+    height: 208px;
+    border-radius:6px;
+} */
+
+.employment-story{
+    font-size: 16px;
+    font-family: cursive;
+}
+.resume_details-employment{
+    color: black;
+    font-weight: 700;
+    padding-bottom: 15px;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+.image{
+    margin-bottom: 10px;
+    height:270px;
+    width:269px;
+    border-radius:6px;
+}
+@media only screen  and (min-width : 1224px) {
+    /* Styles */
+    .image{
+        margin-bottom: 10px;
+        height:270px;
+        width:269px;
+        border-radius:6px;
+    }
+    }
+    @media only screen  and (min-width : 1824px) {
+        /* Styles */
+        .image{
+            margin-bottom: 10px;
+            height:270px;
+            width:269px;
+            border-radius:6px;
+        }
+        }
+.panel-primary{
+    margin-top: 60px;
+
+}
+.moreabout{
+    background-color: #35629d;
+}
+.panel-primary>.panel-heading {
+    color: #fff;
+    background-color: #35629d;
+   
+}
+.panel-primary{
+    border-color: #004869;
+    border-radius: 0px;
+        box-shadow: 0 0 5px rgba(0,0,0,.4);
+}
+     .resume_hire_block {
+    background: -webkit-linear-gradient(#fff,#f6faff);
+    background: linear-gradient(#fff,#f6faff);
+    min-height: 72px;
+    padding: 10px 30px;
+
+    } 
+.resume_hire_block_text{
+        color: #505050;
+    font-size: 17px;
+    margin: 0;
+        font-weight: 500;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.resume_hire_block-availability {
+    color: #3dbe8b;
+}
+.resume_hire_block-actions {
+    margin: 0 0 0 10px;
+}
+.tags-for-person{
+
+    margin: 20px 0 -7px;
+    max-height: 66px;
+    min-height: 34px;
+    opacity: 1;
+    overflow: hidden;
+    -webkit-transition: opacity .3s;
+    transition: opacity .3s;
+    width: 100%;
+}
+.each-tag-person{
+border-radius: 2px;
+    border: 1px solid transparent;
+    display: inline-block;
+    padding: 2px 20px 0;
+    margin-bottom: 7px;
+    margin-right: 7px;
+    background-color: #175ba0;
+    color: #fff;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 25px;
+    text-decoration: none;
+
+}
